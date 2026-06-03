@@ -14,7 +14,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/nv01110612)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nv01110612@gmail.com)
 
-</div>
+
 
 ---
 
@@ -80,9 +80,9 @@
       <span class="tbar-text">naveen@arch:~$ cat profile.yaml</span>
     </div>
 
-    <div class="body">
+ <div class="body">
 
-      <div class="col">
+<div class="col">
         <div class="avatar-row">
           <div class="avatar">NK</div>
           <div class="name-block">
@@ -91,17 +91,17 @@
           </div>
         </div>
 
-        <div class="divider"></div>
+<div class="divider"></div>
 
-        <p class="section-head">// identity</p>
+   <p class="section-head">// identity</p>
         <div class="row"><span class="k">location</span><span class="sep">:</span><span class="v s">"Chennai, TN, India 🇮🇳"</span></div>
         <div class="row"><span class="k">intern</span><span class="sep">:</span><span class="v s">"CodSoft — Web Dev 💼"</span></div>
         <div class="row"><span class="k">education</span><span class="sep">:</span><span class="v s">"B.Tech – Cybersecurity"</span></div>
         <div class="row"><span class="k">philosophy</span><span class="sep">:</span><span class="v o">"Clean. Secure. Unstoppable."</span></div>
 
-        <div class="divider"></div>
+ <div class="divider"></div>
 
-        <p class="section-head">// languages</p>
+ <p class="section-head">// languages</p>
         <div style="margin-top:2px;">
           <span class="tag">Java</span>
           <span class="tag">JavaScript</span>
@@ -113,9 +113,9 @@
           <span class="tag warn">Node.js</span>
         </div>
 
-        <div class="divider"></div>
+ <div class="divider"></div>
 
-        <p class="section-head">// currently learning</p>
+<p class="section-head">// currently learning</p>
         <div class="focus-block">
           <div class="focus-item"><span class="focus-arrow">▸</span> Advanced Spring Boot Microservices</div>
           <div class="focus-item"><span class="focus-arrow">▸</span> React UI Patterns &amp; Architecture</div>
@@ -124,17 +124,17 @@
         </div>
       </div>
 
-      <div class="col">
+ <div class="col">
 
-        <p class="section-head">// live status</p>
+   <p class="section-head">// live status</p>
         <div class="status-bar">
           <div class="pulse"></div>
           <span class="status-text">🔥 Currently Leveling Up — ONLINE</span>
         </div>
 
-        <div class="divider" style="margin-top:4px;"></div>
+ <div class="divider" style="margin-top:4px;"></div>
 
-        <p class="section-head">// github stats</p>
+<p class="section-head">// github stats</p>
         <div class="stat-grid">
           <div class="stat-box"><div class="stat-num">19</div><div class="stat-lbl">Repositories</div></div>
           <div class="stat-box"><div class="stat-num">4</div><div class="stat-lbl">Followers</div></div>
@@ -142,43 +142,42 @@
           <div class="stat-box"><div class="stat-num">3+</div><div class="stat-lbl">Public Projects</div></div>
         </div>
 
-        <div class="divider"></div>
+<div class="divider"></div>
 
-        <p class="section-head">// passion</p>
+<p class="section-head">// passion</p>
         <div class="row"><span class="v p" style="font-size:13px; line-height:1.7;">"Bridging secure backends with<br>high-performance frontends"</span></div>
 
-        <div class="divider"></div>
+   <div class="divider"></div>
 
-        <p class="section-head">// open to</p>
+  <p class="section-head">// open to</p>
         <div class="badge-row">
-          <span class="badge b-blue"><i class="ti ti-users" aria-hidden="true"></i> Collaborations</span>
+   <span class="badge b-blue"><i class="ti ti-users" aria-hidden="true"></i> Collaborations</span>
           <span class="badge b-green"><i class="ti ti-briefcase" aria-hidden="true"></i> Internships</span>
           <span class="badge b-purple"><i class="ti ti-brand-github" aria-hidden="true"></i> Open Source</span>
-          <span class="badge b-amber"><i class="ti ti-bulb" aria-hidden="true"></i> Projects</span>
-        </div>
+  <span class="badge b-amber"><i class="ti ti-bulb" aria-hidden="true"></i> Projects</span>
+  </div>
 
-        <div class="divider"></div>
+  <div class="divider"></div>
 
-        <p class="section-head">// connect</p>
-        <div class="row" style="gap:6px; flex-wrap:wrap;">
-          <a href="https://www.linkedin.com/in/naveen-kumar-k-700b802b9/" style="text-decoration:none;">
-            <span class="badge b-blue"><i class="ti ti-brand-linkedin" aria-hidden="true"></i> LinkedIn</span>
-          </a>
-          <a href="mailto:nv01110612@gmail.com" style="text-decoration:none;">
-            <span class="badge b-amber"><i class="ti ti-mail" aria-hidden="true"></i> Gmail</span>
-          </a>
-          <a href="https://www.hackerrank.com/profile/nv01110612" style="text-decoration:none;">
-            <span class="badge b-green"><i class="ti ti-terminal" aria-hidden="true"></i> HackerRank</span>
-          </a>
-        </div>
-
+  <p class="section-head">// connect</p>
+  <div class="row" style="gap:6px; flex-wrap:wrap;">
+  <a href="https://www.linkedin.com/in/naveen-kumar-k-700b802b9/" style="text-decoration:none;">
+  <span class="badge b-blue"><i class="ti ti-brand-linkedin" aria-hidden="true"></i> LinkedIn</span>
+  </a>
+  <a href="mailto:nv01110612@gmail.com" style="text-decoration:none;">
+  <span class="badge b-amber"><i class="ti ti-mail" aria-hidden="true"></i> Gmail</span>
+  </a>
+  <a href="https://www.hackerrank.com/profile/nv01110612" style="text-decoration:none;">
+  <span class="badge b-green"><i class="ti ti-terminal" aria-hidden="true"></i> HackerRank</span>
+   </a>
+  </div>
       </div>
 
-    </div>
+  </div>
 
-    <div class="prompt-line">
-      <span class="p-sym">❯</span><span style="color:#79c0ff;">_</span><span class="cursor"></span>
-    </div>
+  <div class="prompt-line">
+  <span class="p-sym">❯</span><span style="color:#79c0ff;">_</span><span class="cursor"></span>
+  </div>
   </div>
 </div>
 
