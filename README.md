@@ -1,128 +1,136 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mocaCrin/mocaCrin/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Naveen+Kumar+K+👋;Aspiring+Full+Stack+Developer+💻;Cybersecurity+Enthusiast+🔒;Welcome+to+my+Digital+Space+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=800&lines=⚡+NAVEEN+KUMAR+K+⚡;📂+FULL+STACK+DEVELOPER;🔒+CYBERSECURITY+ENGINEER;🤖+AI+AUTOMATION+ENTHUSIAST" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/naveenkumar-arch?label=Followers&style=for-the-badge&color=00FFCC&logo=github" />
-  <img src="https://img.shields.io/github/stars/naveenkumar-arch/EmployeeHub_CRUD_OPERATION?style=for-the-badge&color=FF007F&logo=github" />
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/naveenkumar-arch?label=DEVS%20FOLLOWING&style=for-the-badge&color=7928CA&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-CHENNAI%20%7C%20IN-0070F3?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghvc/?username=naveenkumar-arch&label=PROFILE%20VIEWS&color=FF007F&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 💫 About Me
+## 🛰️ Terminal Overview
 
 <table align="center" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <p>🧠 I am a passionate <b>Cybersecurity Student</b> and <b>Full Stack Developer</b> focused on building secure, efficient, and dynamic web applications.</p>
-      <p>⚡ I love bridging the gap between robust backend architectures (<b>Java Spring Boot</b>) and interactive, secure modern interfaces.</p>
-      <p>🔒 <b>Core Philosophy:</b> Writing clean code is great; writing clean, <i>secure</i> code is everything.</p>
-      <br>
-      <p>🌱 <b>Currently Leveling Up:</b> React.js, Advanced Spring Boot Microservices, and Network Security Frameworks.</p>
+    <td width="55%" valign="top">
+      <p>🤖 <b>Welcome, Operator.</b> I am a Software Engineer and Cybersecurity practitioner bridging the gap between scale backend systems and high-assurance security engineering.</p>
+      <p>💡 <b>Core Focus:</b> Architecting enterprise applications using <b>Java Spring Boot</b> while building custom playground labs to dissect networking security vulnerabilities and cryptographic algorithms.</p>
+      <br />
+      <p>🔭 <b>Current Objective:</b> Refining microservice proxy systems and fine-tuning intelligent agent systems to automate local desktop workflows.</p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z5Z3Y1cnE0d3N6N3I4bXN5dzVvOHg1bXBhOHFwZzNwa2g4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kaq6GnxDlJaBq/giphy.gif" width="220px" alt="Animated Developer Framework"/>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI0Z3E5cXU3bXpnbWp1Yzh3ZzByNmsydzZ3cXh5dzVvOHg1bXBhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgWh98FMKdfyM/giphy.gif" width="240px" alt="Cyber Grid Matrix" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Cyber & Dev Tech Stack
+## 🛠️ Ecosystem & Weaponry
 
-### 💻 Software Development
+### 🌐 Full Stack Core
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### 🔒 Cybersecurity & Core Tools
+### 🛡️ Defenses & Storage
 <p align="left">
-  <img src="https://img.shields.io/badge/Cyber_Security-Red?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cryptography-00FFCC?style=for-the-badge&logo=lock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Security-FF007F?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security" />
+  <img src="https://img.shields.io/badge/Cryptography-00FFCC?style=for-the-badge&logo=letsencrypt&logoColor=black" alt="Cryptography" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 📂 Highlighted Projects
+## 📂 Vault: Core Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Cyber Net Lab</h3>
-      <p>An interactive, visual web-based environment tailored for mastering networking & security foundational pillars (IPv4/v6, CIDR, Subnetting, TCP/UDP architectures).</p>
-      <code>HTML</code> <code>CSS</code> <code>JS</code> <code>Networking</code>
-      <br><br>
-      <a href="https://github.com/naveenkumar-arch/-CYBER-NET-LAB">⭐ View Project</a>
+      <p>Interactive playground tracking core networking architectures. Simulates real-time packet configurations, IPv4/v6 framing, CIDR subnet mapping, and transport protocol workflows.</p>
+      <img src="https://img.shields.io/badge/Platform-HTML5%20%7C%20CSS3%20%7C%20JS-blue?style=flat-square" />
+      <br /><br />
+      <a href="https://github.com/naveenkumar-arch/-CYBER-NET-LAB"><code>🎯 Access Source</code></a>
     </td>
     <td width="50%" valign="top">
       <h3>🔑 Hashing Crypto 101</h3>
-      <p>Interactive platform built to demonstrate real-world encryption, security hashes, encoding standards, and live testing environments for password breaking mechanics.</p>
-      <code>Security</code> <code>Cryptography</code> <code>Web Tool</code>
-      <br><br>
-      <a href="https://github.com/naveenkumar-arch/hashing-crypto-101">⭐ View Project</a>
+      <p>A web framework analyzing text transformations. Implements step-by-step visualizations for cryptographic hashes, algorithmic encoding layers, and vulnerability simulations.</p>
+      <img src="https://img.shields.io/badge/Focus-Defensive%20Security-red?style=flat-square" />
+      <br /><br />
+      <a href="https://github.com/naveenkumar-arch/hashing-crypto-101"><code>🎯 Access Source</code></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ EmployeeHub CRUD Operation</h3>
-      <p>A full backend data architecture service mapping clean enterprise data flow using structural architecture controls.</p>
-      <code>Java</code> <code>Spring Boot</code> <code>Database</code>
-      <br><br>
-      <a href="https://github.com/naveenkumar-arch/EmployeeHub_CRUD_OPERATION">⭐ View Project</a>
+      <h3>🎛️ API Securing Using Proxy</h3>
+      <p>Middleware proxy cluster constructed to filter routing streams, prevent token exposure, and build a protective wall around dynamic backend architectures.</p>
+      <img src="https://img.shields.io/badge/Engine-Node%20%7C%20Express-green?style=flat-square" />
+      <br /><br />
+      <a href="https://github.com/naveenkumar-arch/API-SECURING-USING-PROXY"><code>🎯 Access Source</code></a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Jarvis Voice AI Assistant</h3>
-      <p>Automation engine leveraging speech recognition interfaces to coordinate user scripts and smart features dynamically.</p>
-      <code>TypeScript</code> <code>Voice AI</code> <code>Automation</code>
-      <br><br>
-      <a href="https://github.com/naveenkumar-arch/JARVIS_Tony_stark_ai_assistant">⭐ View Project</a>
+      <p>An automation module built over native audio layers that listens to environment streams to manipulate local operating systems and trigger scripts via voice commands.</p>
+      <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20AI-orange?style=flat-square" />
+      <br /><br />
+      <a href="https://github.com/naveenkumar-arch/JARVIS_Tony_stark_ai_assistant"><code>🎯 Access Source</code></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 Git & Coding Statistics
+## 📊 Live System Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar-arch&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar-arch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumar-arch&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenkumar-arch&show_icons=true&theme=tokyonight&hide_border=true" alt="Naveen's GitHub Stats" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenkumar-arch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar-arch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="Language Breakdown" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar-arch&theme=radical&hide_border=true&background=0D1117" width="100%" alt="Commit Streak" />
 </p>
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 🖧 Comms Matrix
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naveen-kumar-k-700b802b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:nv01110612@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/SECURE_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/nv01110612">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mocaCrin/mocaCrin/main/assets/line-neon.gif" width="100%" alt="Animated Separator Line" />
+  <img src="https://raw.githubusercontent.com/mocaCrin/mocaCrin/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
 </p>
 
 <p align="center">
-💥 <i>"Security is not a product, it's a process."</i> — Keep building, keep securing.
+  <sub><b>System Status:</b> Operational // <b>Target:</b> Continuously optimizing encryption pipelines and secure runtime architectures.</sub>
 </p>
