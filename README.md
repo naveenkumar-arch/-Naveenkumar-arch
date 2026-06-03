@@ -98,12 +98,7 @@ status     : "🔥 Currently Leveling Up"
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naveenkumar-arch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&border_color=00b4d8&title_color=00b4d8&icon_color=00b4d8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar-arch&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&border_color=00b4d8&title_color=00b4d8"/>
-
-</div>
 
 <div align="center">
 
