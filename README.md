@@ -112,30 +112,6 @@ status     : "🔥 Currently Leveling Up"
 
 </div>
 
----
-
-## 🎯 Current Focus & Interests
-
-```json
-{
-  "status": "🔥 Leveling Up",
-  "academicFocus": "Cybersecurity & Defensive Frameworks",
-  "developmentPath": [
-    "Advanced Spring Boot Microservices",
-    "React UI Patterns & Component Architecture",
-    "Networking Security Protocols"
-  ],
-  "dailyRoutine": {
-    "🖥️  coding":   "Writing enterprise-ready, structured codebases",
-    "🔐 security":  "Analyzing authentication models & routing protections",
-    "📚 learning":  "Exploring new CVEs, hashing algorithms, and proxy patterns"
-  },
-  "openTo": ["Collaborations", "Internships", "Open Source Contributions"]
-}
-```
-
----
-
 ## 🏅 Achievements & Certifications
 
 - 🎓 **CodSoft Internship** – Built Calculator, Landing Page & Portfolio (HTML/CSS/JS)
