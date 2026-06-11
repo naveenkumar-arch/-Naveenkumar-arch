@@ -26,7 +26,7 @@ name       : "Naveen Kumar K"
 location   : "Chennai, Tamil Nadu, India 🇮🇳"
 role       : "Cybersecurity Student | Full Stack Developer"
 intern     : "CodSoft (Web Developer)"
-education  : "B.Tech – Cybersecurity & Defensive Frameworks"
+education  : "B.E – Cybersecurity & Defensive Frameworks"
 languages  : ["Java", "JavaScript", "TypeScript", "HTML", "CSS"]
 passion    : "Bridging secure backends with high-performance frontends"
 philosophy : "Clean code. Secure systems. Unstoppable builds."
