@@ -40,28 +40,59 @@ portfolio  : "https://myportfolio-five-rouge-12.vercel.app"
 
 <div align="center">
 
-| 🚀 Client Project | 🌐 Live Link | 🔥 Commercial Impact & Architecture | 🛠️ Tech Stack |
+| 🚀 Client Platform | 🌐 Live Deployment | 🔥 Production Impact & Architecture | 🛠️ Tech Stack |
 |---|:---:|---|---|
-| **Veerika Rose Garden** | [**vrgnursery.in**](https://www.vrgnursery.in) | **Commercial Nursery E-Commerce Platform**<br>• Processed **₹45,000+ GMV** across **110+ verified orders**.<br>• Automated **Razorpay PG & PhonePe** webhook verification.<br>• 12-Step Mobile Admin order workflow + thermal shipping labels. | `React 19` `Tailwind` `Node.js` `Neon PostgreSQL` `Prisma` `Vercel` |
-| **Krishna Students Print Hub** | [**Visit Site**](https://krishna-students-print-hub.vercel.app) | **Online Document Upload & Student Print-Queue**<br>• Remote file upload with automatic page cost calculation.<br>• Instant UPI QR payments & zero-wait retail store collection. | `React` `Node.js` `Express` `UPI Integration` `Tailwind CSS` |
-| **Sri Thirumala Foam Wash** | [**Visit Site**](https://sri-thirumala-foam-wash.vercel.app) | **Doorstep Vehicle Care & Slot Booking Portal**<br>• Doorstep pickup booking with live service progress tracking.<br>• Digital GST invoicing and customer service history ledger. | `React` `Tailwind` `Express.js` `PostgreSQL` `REST APIs` |
+| **Veerika Rose Garden** | [**vrgnursery.in**](https://www.vrgnursery.in) | **Commercial Nursery E-Commerce Platform**<br>• Processed **₹45,000+ GMV** across **110+ verified orders**.<br>• Automated **Razorpay PG & PhonePe** webhook verification.<br>• 12-Step Mobile Admin dispatch workflow + thermal A4 shipping labels. | `React 19` `Tailwind CSS` `Node.js` `Neon PostgreSQL` `Prisma ORM` `Vercel` |
+| **Krishna Students Print Hub** | [**Visit Site**](https://krishna-students-print-hub.vercel.app) | **Online Document Upload & Student Print Queue**<br>• Remote file upload with automatic page cost calculation.<br>• Instant UPI QR payments & zero-wait retail store collection. | `React` `Node.js` `Express` `UPI Integration` `Tailwind CSS` `Vercel` |
+| **Sri Thirumala Foam Wash** | [**Visit Site**](https://sri-thirumala-foam-wash.vercel.app) | **Doorstep Vehicle Care & Slot Booking Portal**<br>• Doorstep pickup scheduling with live service progress tracking.<br>• Digital GST invoicing and customer vehicle service history ledger. | `React` `Tailwind CSS` `Express.js` `PostgreSQL` `REST APIs` `Vercel` |
 
 </div>
 
 ---
 
-## 🏆 Featured Engineering Projects
+## 🏆 Featured Engineering Projects (Categorized)
 
+### ☕ 1. Full Stack & Enterprise Systems
 <div align="center">
 
-| 🌐 Project | 🔥 Description | 🛠️ Stack | Code / Demo |
+| Project | Description | Stack | Link |
 |---|---|---|:---:|
-| [**🤖 Voice AI Code Automation**](https://github.com/naveenkumar-arch/AUTOMATION_CODE_USING_VOICE-AI) | Voice-to-Code engine that translates spoken English into structured, executable TypeScript routines. | `TypeScript` `Web Speech API` `Automation` | [Code](https://github.com/naveenkumar-arch/AUTOMATION_CODE_USING_VOICE-AI) |
 | [**☕ Spring Boot E-Commerce**](https://github.com/naveenkumar-arch/SPRING_BOOT_PROJECT) | Enterprise e-commerce backend with Spring Boot, JPA/Hibernate, user auth, and payment APIs. | `Java` `Spring Boot` `MySQL` `REST API` | [Code](https://github.com/naveenkumar-arch/SPRING_BOOT_PROJECT) |
 | [**🏢 Employee Hub CRUD**](https://github.com/naveenkumar-arch/employeehub_crud) | Enterprise employee management portal with full CRUD operations, role filtering, and data tables. | `React` `Node.js` `SQL` `Tailwind CSS` | [Code](https://github.com/naveenkumar-arch/employeehub_crud) |
+| [**⌚ Chronos Watch E-Commerce**](https://github.com/naveenkumar-arch/CHRONOS_WATCH_E-COMMERECE) | Luxury timepiece shopping platform with responsive cart drawer and dynamic product filters. | `HTML5` `CSS3` `JavaScript` `UI/UX` | [Code](https://github.com/naveenkumar-arch/CHRONOS_WATCH_E-COMMERECE) |
+
+</div>
+
+### 🔐 2. Cybersecurity & Networking Tools
+<div align="center">
+
+| Project | Description | Stack | Link |
+|---|---|---|:---:|
 | [**🛡️ API Securing Proxy**](https://github.com/naveenkumar-arch/api-securingproxy) | Reverse proxy shield with rate limiting, token validation, and IP protection against abuse. | `Node.js` `Express Proxy` `Cybersecurity` | [Demo](https://api-securing-using-proxy.vercel.app/) |
-| [**🤖 Jarvis AI Assistant**](https://github.com/naveenkumar-arch/JARVIS_AI_ASSISTANT) | Tony Stark-themed desktop AI assistant with speech recognition, macros, and system actions. | `TypeScript` `React` `Speech API` | [Code](https://github.com/naveenkumar-arch/JARVIS_AI_ASSISTANT) |
+| [**🌐 Cyber Net Lab**](https://github.com/naveenkumar-arch/-CYBER-NET-LAB) | Interactive visual platform for learning IPv4/IPv6, CIDR, DNS, TCP/UDP, and HTTP/HTTPS. | `HTML5` `CSS3` `JavaScript` `Networking` | [Code](https://github.com/naveenkumar-arch/-CYBER-NET-LAB) |
 | [**🔑 Hashing Crypto 101**](https://github.com/naveenkumar-arch/hashing-crypto-101) | Cryptographic playground for live hashing, encoding/decoding, and password cracking challenges. | `JavaScript` `Cryptography` `Cybersecurity` | [Demo](https://naveenkumar-arch.github.io/hashing-crypto-101/) |
+
+</div>
+
+### 🤖 3. AI & Automation Systems
+<div align="center">
+
+| Project | Description | Stack | Link |
+|---|---|---|:---:|
+| [**🎙️ Voice AI Code Automation**](https://github.com/naveenkumar-arch/AUTOMATION_CODE_USING_VOICE-AI) | Voice-to-Code engine that translates spoken English into structured, executable TypeScript routines. | `TypeScript` `Web Speech API` `Automation` | [Code](https://github.com/naveenkumar-arch/AUTOMATION_CODE_USING_VOICE-AI) |
+| [**🤖 Jarvis AI Assistant**](https://github.com/naveenkumar-arch/JARVIS_AI_ASSISTANT) | Tony Stark-themed desktop AI assistant with speech recognition, macros, and system actions. | `TypeScript` `React` `Speech API` | [Code](https://github.com/naveenkumar-arch/JARVIS_AI_ASSISTANT) |
+| [**📄 AI Resume Checker**](https://github.com/naveenkumar-arch/RESUME_CHECKER) | Intelligent candidate application companion that parses resumes and scores match against job specs. | `TypeScript` `React` `Tailwind` `NLP Parser` | [Code](https://github.com/naveenkumar-arch/RESUME_CHECKER) |
+
+</div>
+
+### 🌐 4. Interactive Web Applications
+<div align="center">
+
+| Project | Description | Stack | Link |
+|---|---|---|:---:|
+| [**💬 Temporary Ephemeral Chat**](https://github.com/naveenkumar-arch/TEMP_CHAT) | Real-time secure messaging app using WebSockets for dynamic P2P chat rooms with zero logs. | `TypeScript` `React` `WebSockets` `Node.js` | [Code](https://github.com/naveenkumar-arch/TEMP_CHAT) |
+| [**🌦️ PokeWeather**](https://github.com/naveenkumar-arch/POKE_WEATHER) | Dynamic web app integrating Weather & Pokémon APIs to recommend Pokémon by weather conditions. | `HTML5` `CSS3` `JavaScript` `REST APIs` | [Code](https://github.com/naveenkumar-arch/POKE_WEATHER) |
+| [**💼 CodSoft Internship Projects**](https://github.com/naveenkumar-arch/CODSOFT) | Collection of interactive web apps (Calculator, Landing Page, Portfolio) with responsive styling. | `HTML5` `CSS3` `JavaScript` | [Code](https://github.com/naveenkumar-arch/CODSOFT) |
 
 </div>
 
